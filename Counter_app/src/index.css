@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+}
+
+.buttons_div{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
